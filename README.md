@@ -2,6 +2,6 @@
 
 My name is Seamus
 
-- I’m currently working as an intern for OpenOps
-- I’m happy to collaborate on open source projects and open for employment
+- I’m currently working as a contractor @ [Vimcal](https://www.vimcal.com/)
+- Currently unavailable to work on projects / not open for hire
 - I’m reachable at seamust.le@gmail.com
